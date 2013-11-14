@@ -9,7 +9,7 @@ int main(void)
 	cin >> inpt;
 	
 	if (inpt) {
-		cout << "Hello World!\n" << endl;
+		cout << "Hello World!" << endl;
 	}
 	else {
 		cout << inpt << " = 0" << endl;
