@@ -6,13 +6,13 @@ int main(void)
 {
 	int inpt = 0;
 	
-	cin >> i;
+	cin >> inpt;
 	
-	if (i) {
+	if (inpt) {
 		cout << "Hello World!\n" << endl;
 	}
 	else {
-		cout << i << "= 0" << endl;
+		cout << inpt << " = 0" << endl;
 	}
 	
 	return 0;
