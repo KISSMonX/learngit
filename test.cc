@@ -14,6 +14,7 @@ int main(void)
 	else {
 		cout << inpt << " = 0" << endl;
 	}
+	cout << "END" << endl;
 	
 	return 0;
 }
